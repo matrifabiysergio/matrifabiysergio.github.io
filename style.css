@@ -1,0 +1,17 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    background-color: #690E67;
+    font-family: "Indie Flower", cursive;
+}
+.todo {
+    width: 100wh;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h1 {
+    color: #ffffff;
+    font-size: 68px;
+}
